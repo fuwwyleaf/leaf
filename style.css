@@ -536,6 +536,10 @@ a:hover {
         font-size: 1.2rem;
     }
 
+    .overlay-h2 {
+        font-size: 1.1rem !important;
+    }
+
     .docs-div {
         max-width: 100%;
     }
